@@ -139,7 +139,10 @@ AutoApi系列：AutoApi、AutoApiSecret、AutoApiSR、AutoApiS
   
   tg群：[OneDrive E5](https://t.me/joinchat/OLlK9RsbBlmTYOJS_BU4Mg)   （**非项目相关**讨论！**tg可能不会及时在线回答问题**，任何项目相关的问题或出错请进Q群/邮箱/issue）
   
-
+两种解决办法：
+1，Settings -> Branches里，把默认分支改成main
+2，参考issue里的方案
+（yml文件最后加branch:master）
   
   最后的最后，再次感谢黑幕/paran大佬
   
